@@ -10,7 +10,7 @@
 
 ## Project Description
 This repository was created for my BAIS:3050 Professional Preparation assignment.  
-It is a simple **Hello World** project designed to practice using *GitHub* and Markdown formatting.
+It is a simple project designed to practice using GitHub
 
 ## Tools Used
 - GitHub
@@ -22,4 +22,3 @@ It is a simple **Hello World** project designed to practice using *GitHub* and M
 
 ## How to Run the Program
 Currently, this repository does not include executable code.  
-If code were included, it would look something like this:

@@ -1,17 +1,25 @@
 # hello-world
 
-##Description
-This repository is a practice project created to learn the basics of GitHub
+## Table of Contents
+- [Project Description]
+- [Tools Used]
+- [Files Included]
+- [How to Run the Program]
+- [What I Learned]
+- [Helpful Resources]
 
-##Tools Used
--GitHub
--MarkDown
+## Project Description
+This repository was created for my BAIS:3050 Professional Preparation assignment.  
+It is a simple **Hello World** project designed to practice using *GitHub* and Markdown formatting.
 
-##Files Used
-- README.md
+## Tools Used
+- GitHub
+- Markdown
+- Web Browser
 
-##How to run the program
-There isnot a program to run. This is mainly focused on learning GitHub
+## Files Included
+- `README.md`
 
-##Additional Info
-This is my first GitHub Repository created for BAIS:3050
+## How to Run the Program
+Currently, this repository does not include executable code.  
+If code were included, it would look something like this:
